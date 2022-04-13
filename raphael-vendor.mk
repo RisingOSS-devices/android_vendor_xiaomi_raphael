@@ -1268,7 +1268,6 @@ PRODUCT_PACKAGES += \
     libfastcvopt \
     libthermalclient \
     liblbs_core \
-    IFAAService \
     SoterService \
     CneApp \
     IWlanService \
